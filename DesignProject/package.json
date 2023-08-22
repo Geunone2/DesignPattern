@@ -1,0 +1,16 @@
+{
+  "name": "designproject",
+  "version": "1.0.0",
+  "main": "FactoryWay/GeunOneWay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "readline-promise": "^1.0.5"
+  }
+}
