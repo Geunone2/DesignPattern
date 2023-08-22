@@ -19,5 +19,6 @@ Ex) Geunone => 고속도로 / Geuntwo => 일반국도 / GeunThr => 지방도 etc
 각 회사 별마다 출발지 -> 목적지로 가는 경로를 구성하는 데 기본 경로가 아닌 최단 경로, 경치가 좋은 경로 등으로 변경
 
 # Park's의 네비게이션 구조도
-![image](https://github.com/Geunone2/DesignPattern/assets/101256141/5b28a50b-51f3-4c87-900a-9464ba204cf0)
+![image](https://github.com/Geunone2/DesignPattern/assets/101256141/b0b7fefd-a13c-4f88-a193-ec517ce0c449)
+
 
