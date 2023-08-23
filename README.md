@@ -22,3 +22,5 @@ Ex) Geunone => 고속도로 / Geuntwo => 일반국도 / GeunThr => 지방도 etc
 ![image](https://github.com/Geunone2/DesignPattern/assets/101256141/b0b7fefd-a13c-4f88-a193-ec517ce0c449)
 
 
+# Link
+https://parkgeunwon.notion.site/30f4e0f0dc704b5a9cafd7c56f38df24?pvs=4
